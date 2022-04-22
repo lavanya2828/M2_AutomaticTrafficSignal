@@ -1,1 +1,20 @@
+# Introduction
 
+The project is about Automatic traffic Signal which is implemented using Microcontroller Atmega 328p. The prototype is designed to control the traffic in efficient manner.
+# Timeline and Implementation
+The Gannt chart below represents the design and implementaion of the project simulation
+
+# Features
+ * Atmega 328p controller for fast and efficient implementation
+ * HD44780 16x2 Liquid crystal display for user interface output device
+ * 4 roads contains 4 diffrent signals
+ * RGY Led to indicate the signal
+# SWOT Analysis
+Below chart shows the SWOT analysis of the project designed-
+![Practical implementation is simple and efficient Features are easy to use Simulation helps in reducing problems due to hardware](https://user-images.githubusercontent.com/68335075/163702406-bce5a8f4-e22d-4542-966e-651eb90fe52a.png) 
+# 4Ws and 1Hs
+ * Who- 
+ * What- The aim of the projectAutomatic traffic Signal is to simulate and implement  using Atmega328p, 16x2 LCD, RGY LED
+ * When- It will be helpful lowcost, simple and economical.
+ * Where- Useful in heavy traffic places like big cities,towns etc.
+ * How - It can be implemented using automatic programming also sensors can be used to detect the density of traffic. 
