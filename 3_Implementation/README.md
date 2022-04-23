@@ -3,10 +3,8 @@
 
 #define rs_high() PORTD |= (1 << 2);
 #define rs_low() PORTD &= ~(1 << 2);
-
 #define en_high() PORTD |= (1 << 3);
 #define en_low() PORTD &= ~(1 << 3);
-
 #define lcdport PORTB
 
 // function to write command on LCD
@@ -221,6 +219,5 @@ int main(void)
 		_delay_ms(100000);
 		PORTC&=~(1<<PC0);
 		_delay_ms(1);
-	}
-}
+	}}
 
