@@ -220,5 +220,8 @@ int main(void)
 		PORTC&=~(1<<PC0);
 		_delay_ms(1);
 	}
-}
+	
+	
+	
+	}
 
