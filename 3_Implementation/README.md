@@ -219,5 +219,6 @@ int main(void)
 		_delay_ms(100000);
 		PORTC&=~(1<<PC0);
 		_delay_ms(1);
-	}}
+	}
+}
 
