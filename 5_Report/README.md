@@ -1,6 +1,5 @@
                             AUTOMATIC TRAFFIC SIGNAL
 Introduction
-
 The project is based on microcontroller . Automatic traffic signal helps in fast and efficient control. It helps in smooth management of the traffic control process and tracking the overall operations. In the project, controller used is ATmega 328p which performs and controls the working of the model. In order to display the status, 16×2 Liquid crystal display is used. This  greatly reduce the human effort to control the traffic.  These are produced with secure manufacturing practices, and by design, are selfcontained, battery-powered and lack any networking capability. 
 
 OBJECTIVES 
